@@ -7,8 +7,6 @@ Quaternary Chalcogenide Test Script
 """
 
 import numpy as np
-import sys
-sys.path.append('../')
 import klemens_thermal as kt
 import matplotlib.pyplot as plt
 import math
